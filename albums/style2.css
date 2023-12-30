@@ -1,6 +1,7 @@
 html, body{
-    margin: 0;
-    padding: 5px;
+    margin: 5px solid rgb(6, 6, 6);
+    border: 0;
+    padding: 0;
     background-color: rgb(6, 6, 6);
 }
 
